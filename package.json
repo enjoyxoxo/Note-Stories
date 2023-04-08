@@ -1,5 +1,5 @@
 {
-  "name": "note",
+  "name": "Note_Stories",
   "version": "1.0.0",
   "description": "StoriesNote mern project",
   "main": "server.js",
@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
